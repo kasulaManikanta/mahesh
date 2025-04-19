@@ -9,6 +9,8 @@ public class HelloWorldApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldApplication.class, args);
 		System.out.println("Hello mahesh!");
+		System.out.println("Hello mahesh from githubwebhook!");
+
 	}
 
 }
